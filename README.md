@@ -31,7 +31,7 @@ Git: Version control
 To set up the project locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/movie-app.git
+git clone https://github.com/sophonie-1/Movie-App.git
 cd movie-app
 
 
