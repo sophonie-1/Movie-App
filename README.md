@@ -46,7 +46,8 @@ Add necessary variables (e.g., API keys):VITE_API_KEY=your_api_key_here
 VITE_API_URL=https://api.themoviedb.org/3 (example)
 
 
-
+# Live Demo
+You can view a live demo of the app at https://sophonie-1.github.io/Movie-App/
 
 # Run the development server:
 npm run dev
