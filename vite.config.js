@@ -7,5 +7,5 @@ export default defineConfig({
     react(), // Required for React JSX/TSX processing
     tailwindcss(), // Tailwind CSS integration
   ],
-  base: '/movie-app/', // Matches your repository name
+  base: '/Movie-App/', // Matches your repository name
 });
